@@ -64,7 +64,7 @@ header img{
     padding: 5px 10px;
     background-color: white;
     color: black;
-    height: 220px;
+    padding: 150px 50px;
     display: none;
 }
 #training:hover ul.training-class{
